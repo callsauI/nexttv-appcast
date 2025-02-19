@@ -6,7 +6,7 @@
             <title>Version 1.15.0</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/next-889dc.appspot.com/o/NextOs1.0.1?alt=media&token=3c0fe96f-1dbb-4014-a14c-b7913d5ac75a" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/next-889dc.appspot.com/o/NextOs1.0.1?alt=media&token=3c0fe96f-1dbb-4014-a14c-b7913d5ac75a" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
