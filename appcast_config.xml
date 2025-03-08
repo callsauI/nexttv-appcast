@@ -6,7 +6,7 @@
             <title>Version 1.15.0</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/next-889dc.appspot.com/o/Next-TV?alt=media&token=8d840f1b-c038-4b4f-b762-6932de5c2c5c" sparkle:version="1.1.0" sparkle:os="android" />
+            <enclosure url="https://github.com/callsauI/nexttv-appcast/releases/download/tv/app-release.apk" sparkle:version="1.0.15" sparkle:os="android" />
         </item>
     </channel>
 </rss>
